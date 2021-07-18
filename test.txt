@@ -2,3 +2,4 @@ test is bad or good case?
 git is good thing,and you?
 test is running.
 thinking and doing.
+main and master.
