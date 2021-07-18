@@ -1,1 +1,1 @@
-test is good case.
+test is better case.
